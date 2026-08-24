@@ -1,6 +1,5 @@
 
-print("Student Branching App")
-print("Проект для тренировки веток Git")
+
 
 # main.py после подключения report.py
 from profile import print_profile
