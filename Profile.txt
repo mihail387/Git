@@ -1,4 +1,4 @@
 name: Student
-role: developer
+role: frontend developer
 status: active
 
